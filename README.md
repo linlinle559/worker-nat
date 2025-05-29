@@ -14,3 +14,5 @@ SOCKS5_PORT
 ```
 SOCKS5_USERNAME
 ```
+# nat64信息，改IPV6前缀即可
+https://nat64.xyz/
