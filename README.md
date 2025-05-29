@@ -14,5 +14,5 @@ SOCKS5_PORT
 ```
 SOCKS5_USERNAME
 ```
-# nat64信息，改IPV6前缀即可
+# nat64信息，改IPV6前缀即可,代码第130行
 https://nat64.xyz/
